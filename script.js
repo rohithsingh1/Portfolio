@@ -27,7 +27,10 @@ let ColorGame=document.getElementById('ColorGame')
 ColorGame.addEventListener('click', () => {
     window.open('https://color-game-application.netlify.app/','_blank')
 })
-
+let BasicCalculator=document.getElementById('BasicCalculator')
+BasicCalculator.addEventListener('click', () => {
+    window.open('https://basiccalculator4650.netlify.app/','_blank')
+})
 
 
 
