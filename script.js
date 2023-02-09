@@ -32,7 +32,10 @@ BasicCalculator.addEventListener('click', () => {
     window.open('https://basiccalculator4650.netlify.app/','_blank')
 })
 
-
+let GPSApplication=document.getElementById('GPSApplication')
+GPSApplication.addEventListener('click', () => {
+    window.open('https://github.com/rohithsingh1/GPS-WebApplication', '_blank');
+})
 
 
 
